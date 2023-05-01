@@ -4,13 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-flask = '==1.1.2'
+flask = '==2.3.2'
 dynaconf = '==2.2.3'
 flask-restful = '==0.3.8'
 mysql-connector-python = "==8.0.19"
 
 [packages]
-flask = '==1.1.2'
+flask = '==2.3.2'
 dynaconf = '==2.2.3'
 flask-restful = '==0.3.8'
 mysql-connector-python = "==8.0.19"
